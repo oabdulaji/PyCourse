@@ -1,0 +1,33 @@
+{"employee": [
+      
+      { "name": "John Marker",
+        "address": "Los Angeles",
+        "age": 50,
+        "salary": 7500
+      },
+      
+      { "name": "Peter Parker",
+        "address": "New York",
+        "age": 25,
+        "salary": 2750
+      },
+      
+      { "name": "David Loe",
+        "address": "Seattle",
+        "age": 33,
+        "salary": 4150
+      },
+      
+      { "name": "Marry Kelvin",
+        "address": "London",
+        "age": 32,
+        "salary": 4150
+      },
+      
+      { "name": "Kate Levi",
+        "address": "Los Angeles",
+        "age": 22,
+        "email": null,
+        "salary": 2500
+      }
+    ]}
